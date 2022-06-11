@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobs.Extension.MassTransitTrigger", "WebJobs.Extension.MassTransitTrigger\WebJobs.Extension.MassTransitTrigger.csproj", "{4DD3E9EE-E224-47E4-AA6B-3E1C0DF04355}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobs.Extension.MassTransit", "WebJobs.Extension.MassTransitTrigger\WebJobs.Extension.MassTransit.csproj", "{4DD3E9EE-E224-47E4-AA6B-3E1C0DF04355}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
